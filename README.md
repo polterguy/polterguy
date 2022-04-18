@@ -10,7 +10,7 @@
 
 ## CRUD API generator
 
-Our **[CRUD API generator](https://aista.com/crud-api-generator)** allows you to simply choose a database, and literally click a single button, resulting in having securely wrapped every table in your database into **CRUD Web API endpoints 100% automatically**.
+Our **[CRUD API generator](https://aista.com/crud-api-generator)** allows you to choose a database and literally click a single button, resulting in having securely wrapped every table in your database into **CRUD Web API endpoints 100% automatically**.
 
 <br />
 
@@ -40,7 +40,7 @@ Our **[CRUD datagrid generator](https://aista.com/crud-datagrid)** allows you to
 
 ## SQL Studio
 
-With **[SQL Studio](https://aista.com/sql-studio)** you can write and execute SQL from anywhere, using any device you might have available.
+With **[SQL Studio](https://aista.com/sql-studio)** you can write and execute SQL from anywhere, using any device you might have available. SQL Studio also allows you to save and load frequently used SQL snippets, simplifying your job significantly.
 
 <br />
 
@@ -58,16 +58,15 @@ With **[Hyper IDE](https://aista.com/hyper-ide)** you can edit your code from yo
 
 <br />
 
-## Features
+## Additional features
 
-- **[CRUD API generator](https://aista.com/crud-api-generator)** wrapping your database in a Web API in seconds
-- **[SQL Web API generator](https://aista.com/sql-api-generator)** allowing you to write Web APIs in SQL
-- **[Datagrid CRUD generator](https://aista.com/crud-datagrid)** creating Angular CRUD datagrids for you in seconds based upon Angular Material tables
-- **[SQL Studio](https://aista.com/sql-studio)** allowing you to write and execute SQL from anywhere using any device
-- **[Hyper IDE](https://aista.com/hyper-ide)** a Web based IDE
 - **[SSO user administration](https://aista.com/sso-user-administration)** giving your organisation a single sign on module out of the box
 - **[Task Scheduler](https://aista.com/task-scheduler)** allowing you to schedule jobs, and also implement business process workflows
 - **[Bazar](https://aista.com/bazar)** being a _"micro service 'AppStore'_ allowing you to populate your backend with micro services
+
+## Hyperlambda
+
+Aista Magic Cloud is based upon a unique programming language DSL, similar to YAML in syntax, that literally creates your code almost 100% automatically, allowing you to focus on the interesting parts of your job, leaving the boring parts to Magic. When our founder [wrote an article about Hyperlambda for Microsoft](https://docs.microsoft.com/en-us/archive/msdn-magazine/2017/june/csharp-make-csharp-more-dynamic-with-hyperlambda), it became the 5th most read article in MSDN Magazine's 35+ years of existence.
 
 ## Licensing
 
