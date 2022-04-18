@@ -74,4 +74,4 @@ Magic Cloud is 100% open source, using fairly permissive licenses, such as MIT a
 
 ## Website
 
-[Aista Magic Cloud CRUD APP generator](https://aista.com) - A software developer's dream
+**[Aista Magic Cloud CRUD APP generator](https://aista.com)** - A software developer's dream
