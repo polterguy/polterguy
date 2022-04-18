@@ -1,10 +1,10 @@
 # Aista Magic Cloud - A CRUD APP generator
 
-**Aista Magic Cloud** is a platform that **creates CRUD apps automatically**. **[Magic Cloud](https://aista.com)** was created to allow developers to automate tasks associated with creating CRUD API backends and CRUD datagrid frontends. However, it's really a _"next generation software development platform"_ containing everything needed for you to setup and administrate your own low-code cloud system.
+**Aista Magic Cloud** is a software development platform that **creates CRUD apps automatically**. **[Magic Cloud](https://aista.com)** was created to allow developers to automate tasks associated with creating CRUD API backends and CRUD datagrid frontends. However, it's really a _"next generation software development platform"_, containing everything needed for you to setup and administrate your own low-code cloud system.
 
 ## Our vision
 
-**Automate 80% of software development** through intelligent consumption of meta data from SQL based relational database systems, and other systems exposing meta data, allowing us to automatically generate and scaffold code.
+**Automate 80% of software development** through intelligent use of meta data from SQL based relational database systems, and other systems exposing meta data, allowing you to automatically generate and scaffold code.
 
 <br />
 
@@ -41,5 +41,6 @@ Magic Cloud is 100% open source, using fairly permissive licenses, such as MIT a
 
 - [Hyperlambda, make C# more dynamic](https://docs.microsoft.com/en-us/archive/msdn-magazine/2017/june/csharp-make-csharp-more-dynamic-with-hyperlambda)
 
----
-Aista Magic Cloud [CRUD APP generator](https://aista.com) - A software developer's dream
+## Website
+
+[Aista Magic Cloud CRUD APP generator](https://aista.com) - A software developer's dream
