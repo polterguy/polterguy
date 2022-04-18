@@ -72,12 +72,6 @@ Aista Magic Cloud is based upon a unique programming language DSL, similar to YA
 
 Magic Cloud is 100% open source, using fairly permissive licenses, such as MIT and LGPL, allowing you to consume it as you see fit, also in _"proprietary"_ (closed source) projects. Our licensing terms basically allows you to consume Magic as you see fit, as long as modifications to the code base itself _remains_ open source. See the details at [Magic's primary GitHub project website](https://github.com/polterguy/magic).
 
-<br />
-
-## In the media
-
-- [Hyperlambda, make C# more dynamic](https://docs.microsoft.com/en-us/archive/msdn-magazine/2017/june/csharp-make-csharp-more-dynamic-with-hyperlambda)
-
 ## Website
 
 [Aista Magic Cloud CRUD APP generator](https://aista.com) - A software developer's dream
