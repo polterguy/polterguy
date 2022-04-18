@@ -2,11 +2,15 @@
 
 **Aista Magic Cloud** is a software development platform that **creates CRUD apps automatically**. **[Magic Cloud](https://aista.com)** was created to allow developers to automate tasks associated with creating CRUD API backends and CRUD datagrid frontends. However, it's really a _"next generation software development platform"_, containing everything needed for you to setup and administrate your own low-code cloud system.
 
+<br />
+
 ![CRUD API KPI charts](https://aista.com/assets/images/home/slider/kpi-charts.webp)
+
+<br />
 
 ## CRUD API generator
 
-Our **[CRUD API generator](https://aista.com/crud-api-generator)** allows you to simply choose a database, and literally click a single button, resulting in having securely wrapped every table in your database in **CRUD Web API endpoints 100% automatically**.
+Our **[CRUD API generator](https://aista.com/crud-api-generator)** allows you to simply choose a database, and literally click a single button, resulting in having securely wrapped every table in your database into **CRUD Web API endpoints 100% automatically**.
 
 <br />
 
@@ -20,7 +24,7 @@ Our **[SQL Web API generator](https://aista.com/sql-api-generator)** allows you 
 
 <br />
 
-![Geberate a Web API using SQL](https://aista.com/assets/images/features/sql-phone.webp)
+![Generate a Web API using SQL](https://aista.com/assets/images/features/sql-phone.webp)
 
 <br />
 
@@ -28,7 +32,31 @@ Our **[SQL Web API generator](https://aista.com/sql-api-generator)** allows you 
 
 Our **[CRUD datagrid generator](https://aista.com/crud-datagrid)** allows you to generate Angular Material based datagrids wrapping your existing Web API in seconds. It automatically creates an Angular component for each table in your database, providing you with all CRUD operations from within a GUI, fully functioning from your phone.
 
+<br />
+
 ![Our CRUD datagrid generator](https://aista.com/assets/images/features/crud-datagrid.webp)
+
+<br />
+
+## SQL Studio
+
+With **[SQL Studio](https://aista.com/sql-studio)** you can write and execute SQL from anywhere, using any device you might have available.
+
+<br />
+
+![SQL Studio](https://aista.com/assets/images/features/sql-studio.webp)
+
+<br />
+
+## Hyper IDE
+
+With **[Hyper IDE](https://aista.com/hyper-ide)** you can edit your code from your phone. However, its primary feature of course is that it _automatically generates 80% of your CRUD related code_ without any effort required from you.
+
+<br />
+
+![Hyper IDE, a Web based IDE](https://aista.com/assets/images/features/hyper-ide.webp)
+
+<br />
 
 ## Features
 
