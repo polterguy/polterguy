@@ -2,15 +2,33 @@
 
 **Aista Magic Cloud** is a software development platform that **creates CRUD apps automatically**. **[Magic Cloud](https://aista.com)** was created to allow developers to automate tasks associated with creating CRUD API backends and CRUD datagrid frontends. However, it's really a _"next generation software development platform"_, containing everything needed for you to setup and administrate your own low-code cloud system.
 
-## Our vision
+![CRUD API KPI charts](https://aista.com/assets/images/home/slider/kpi-charts.webp)
 
-**Automate 80% of software development** through intelligent use of meta data from SQL based relational database systems, and other systems exposing meta data, allowing you to automatically generate and scaffold code.
+## CRUD API generator
+
+Our **[CRUD API generator](https://aista.com/crud-api-generator)** allows you to simply choose a database, and literally click a single button, resulting in having securely wrapped every table in your database in **CRUD Web API endpoints 100% automatically**.
+
+<br />
+
+![Generate a CRUD API in seconds](https://aista.com/assets/images/home/slider/crud-api-generator.webp)
 
 <br />
 
-![Generate CRUD apps in seconds](https://aista.com/assets/images/home/slider/crud-api-generator.webp)
+## SQL Web API generator
+
+Our **[SQL Web API generator](https://aista.com/sql-api-generator)** allows you to literally create your Web APIs using nothing but SQL. Choose authorisation requirements, add arguments, provide it with your SQL, and create Web API endpoints out of literally **nothing but SQL**.
 
 <br />
+
+![Geberate a Web API using SQL](https://aista.com/assets/images/features/sql-phone.webp)
+
+<br />
+
+## CRUD datagrids
+
+Our **[CRUD datagrid generator](https://aista.com/crud-datagrid)** allows you to generate Angular Material based datagrids wrapping your existing Web API in seconds. It automatically creates an Angular component for each table in your database, providing you with all CRUD operations from within a GUI, fully functioning from your phone.
+
+![Our CRUD datagrid generator](https://aista.com/assets/images/features/crud-datagrid.webp)
 
 ## Features
 
@@ -22,14 +40,6 @@
 - **[SSO user administration](https://aista.com/sso-user-administration)** giving your organisation a single sign on module out of the box
 - **[Task Scheduler](https://aista.com/task-scheduler)** allowing you to schedule jobs, and also implement business process workflows
 - **[Bazar](https://aista.com/bazar)** being a _"micro service 'AppStore'_ allowing you to populate your backend with micro services
-
-<br />
-
-## CRUD datagrids
-
-In addition to generating a CRUD API backend, Magic also automatically creates CRUD datagrid _"started kits"_, that are fully fledged projects, based upon Angular Material and TypeScript.
-
-![CRUD datagrids](https://aista.com/assets/images/features/crud-datagrid.webp)
 
 ## Licensing
 
