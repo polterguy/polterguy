@@ -70,7 +70,7 @@ Aista Magic Cloud is based upon a unique programming language DSL, similar to YA
 
 ## Licensing
 
-Magic Cloud is 100% open source, using fairly permissive licenses, such as MIT and LGPL, allowing you to consume it as you see fit, also in _"proprietary"_ (closed source) projects.
+Magic Cloud is 100% open source, using fairly permissive licenses, such as MIT and LGPL, allowing you to consume it as you see fit, also in _"proprietary"_ (closed source) projects. Our licensing terms basically allows you to consume Magic as you see fit, as long as modifications to the code base itself _remains_ open source. See the details at [Magic's primary GitHub project website](https://github.com/polterguy/magic).
 
 <br />
 
