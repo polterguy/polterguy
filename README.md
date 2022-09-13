@@ -4,7 +4,7 @@
 
 <br />
 
-![CRUD API KPI charts](https://aista.com/assets/images/home/slider/kpi-charts.webp)
+![CRUD API KPI charts](https://raw.githubusercontent.com/polterguy/polterguy/master/kpi-charts.webp)
 
 <br />
 
@@ -14,7 +14,7 @@ Our **[CRUD API generator](https://aista.com/crud-api-generator)** allows you to
 
 <br />
 
-![Generate a CRUD API in seconds](https://aista.com/assets/images/home/slider/crud-api-generator.webp)
+![Generate a CRUD API in seconds](https://raw.githubusercontent.com/polterguy/polterguy/master/crud-api-generator.webp)
 
 <br />
 
@@ -24,7 +24,7 @@ Our **[SQL Web API generator](https://aista.com/sql-api-generator)** allows you 
 
 <br />
 
-![Generate a Web API using SQL](https://aista.com/assets/images/features/sql-phone.webp)
+![Generate a Web API using SQL](https://raw.githubusercontent.com/polterguy/polterguy/master/sql-phone.webp)
 
 <br />
 
@@ -34,7 +34,7 @@ Our **[CRUD datagrid generator](https://aista.com/crud-datagrid)** allows you to
 
 <br />
 
-![Our CRUD datagrid generator](https://aista.com/assets/images/features/crud-datagrid.webp)
+![Our CRUD datagrid generator](https://raw.githubusercontent.com/polterguy/polterguy/master/crud-datagrid.webp)
 
 <br />
 
@@ -44,7 +44,7 @@ With **[SQL Studio](https://aista.com/sql-studio)** you can write and execute SQ
 
 <br />
 
-![SQL Studio](https://aista.com/assets/images/features/sql-studio.webp)
+![SQL Studio](https://raw.githubusercontent.com/polterguy/polterguy/master/sql-studio.webp)
 
 <br />
 
@@ -54,7 +54,7 @@ With **[Hyper IDE](https://aista.com/hyper-ide)** you can edit your code from yo
 
 <br />
 
-![Hyper IDE, a Web based IDE](https://aista.com/assets/images/features/hyper-ide.webp)
+![Hyper IDE, a Web based IDE](https://raw.githubusercontent.com/polterguy/polterguy/master/hyper-ide.webp)
 
 <br />
 
