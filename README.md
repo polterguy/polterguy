@@ -62,7 +62,7 @@ With **[Hyper IDE](https://aista.com/hyper-ide)** you can edit your code from yo
 
 - **[SSO user administration](https://aista.com/sso-user-administration)** giving your organisation a single sign on module out of the box
 - **[Task Scheduler](https://aista.com/task-scheduler)** allowing you to schedule jobs, and also implement business process workflows
-- **[Bazar](https://aista.com/bazar)** being a _"micro service 'AppStore'_ allowing you to populate your backend with micro services
+- **[Plugins](https://aista.com/plugins)** is a _"micro service 'AppStore'_ allowing you to populate your backend with micro services
 
 ## Hyperlambda
 
