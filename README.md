@@ -1,6 +1,6 @@
-# Aista Magic Cloud - A CRUD APP generator
+# Aista Magic Cloud - A CRUD generator
 
-**Aista Magic Cloud** is a software development platform that **creates CRUD apps automatically**. **[Magic Cloud](https://aista.com)** was created to allow developers to automate tasks associated with creating CRUD API backends and CRUD datagrid frontends. However, it's really a _"next generation software development platform"_, containing everything needed for you to setup and administrate your own low-code cloud system.
+**Aista Magic Cloud** is a software development platform that **generates CRUD apps automatically**. **[Aista Magic Cloud](https://aista.com)** was created to allow developers to automate tasks associated with creating CRUD API backends and CRUD datagrid frontends. However, it's really a _"next generation software development platform"_, containing everything needed for you to setup and administrate your own low-code cloud system.
 
 <br />
 
