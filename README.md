@@ -1,6 +1,6 @@
 # Aista Magic Cloud - A CRUD generator
 
-**Aista Magic Cloud** is a CRUD generator that **generates CRUD apps automatically**. **[Aista Magic Cloud](https://aista.com)** was created to allow developers to automate tasks associated with creating CRUD API backends and CRUD datagrid frontends. However, it's really a _"next generation software development platform"_, containing everything needed for you to setup and administrate your own lowcode and nocode cloud system.
+**Aista Magic Cloud** is a CRUD generator that **generates CRUD apps automatically**. **[Aista Magic Cloud](https://aista.com)** was created to allow developers to automate tasks associated with creating CRUD API backends and CRUD datagrid frontends. However, it's really a _"next generation software development platform"_, containing everything needed for you to setup and administrate your own low-code cloud system.
 
 <br />
 
@@ -63,6 +63,7 @@ With **[Hyper IDE](https://aista.com/hyper-ide)** you can edit your code from yo
 - **[SSO user administration](https://aista.com/sso-user-administration)** giving your organisation a single sign on module out of the box
 - **[Task Scheduler](https://aista.com/task-scheduler)** allowing you to schedule jobs, and also implement business process workflows
 - **[Plugins](https://aista.com/plugins)** is a _"micro service 'AppStore'_ allowing you to populate your backend with micro services
+- **[ChatGPT based Website Chatbots](https://aista.com/chatgpt-website-chatbot/)** is a chatbot for customer support and similar use cases built on top of ChatGPT and OpenAI, combined with Hyperlambda, allowing you to automate customer support
 
 ## Hyperlambda
 
