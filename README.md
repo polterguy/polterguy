@@ -1,6 +1,6 @@
 # Magic Cloud - Low-Code, No-Code, and AI-based Software Development
 
-Magic Cloud is a software development automation framework that creates backend APIs _"automagically"_. Magic was created to allow developers to automatically CRUD API backends, in addition to using workflows to create and orchestrate backend code in a _"drag'n'drop"_ interface. Magic almost contains everything needed for you to setup and administrate your own cloud-based backend software development platform.
+Magic Cloud is a software development automation framework created and maintained by [AINIRO.IO](https://ainiro.io) that creates backend APIs _"automagically"_. Magic was created to allow developers to automatically CRUD API backends, in addition to using workflows to create and orchestrate backend code in a _"drag'n'drop"_ interface. Magic almost contains everything needed for you to setup and administrate your own cloud-based backend software development platform.
 
 <br />
 
